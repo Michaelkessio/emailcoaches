@@ -1,0 +1,516 @@
+Abilene Christian University	Southland Conference	D1		Private	No	TX	West Region
+Alabama A&M University	Southwestern Athletic Conf.	D1		Public	Yes	AL	East Region
+Alabama State University	Southwestern Athletic Conf.	D1		Public	Yes	AL	East Region
+Alcorn State University	Southwestern Athletic Conf.	D1		Public	Yes	MS	East Region
+American University	Patriot League	D1		Private	No	DC	East Region
+Appalachian State University	Sun Belt Conference	D1		Public	No	NC	East Region
+Arizona State University	Pac-12 Conference	D1		Public	No	AZ	West Region
+Arkansas State University	Sun Belt Conference	D1		Public	No	AR	West Region
+Auburn University	Southeastern Conference	D1		Public	No	AL	East Region
+Baylor University	Big 12 Conference	D1		Private	No	TX	West Region
+Belmont University	Ohio Valley Conference	D1		Private	No	TN	East Region
+Bethune-Cookman University	Mid-Eastern Athletic Conf.	D1		Private	Yes	FL	East Region
+Binghamton University	America East Conference	D1		Public	No	NY	East Region
+Boise State University	Mountain West Conference	D1		Public	No	ID	West Region
+Boston College	Atlantic Coast Conference	D1		Private	No	MA	East Region
+Boston University	Patriot League	D1		Private	No	MA	East Region
+Bradley University	Missouri Valley Conference	D1		Private	No	IL	West Region
+Brigham Young University		D1		Private	No	UT	West Region
+Brown University	The Ivy League	D1		Private	No	RI	East Region
+Bryant University	Northeast Conference	D1		Private	No	RI	East Region
+Bucknell University	Patriot League	D1		Private	No	PA	East Region
+Butler University	Big East Conference	D1		Private	No	IN	East Region
+California Polytechnic State University	Big West Conference	D1		Public	No	CA	West Region
+California State University, Bakersfield	Western Athletic Conference	D1		Public	No	CA	West Region
+California State University, Fresno	Mountain West Conference	D1		Public	No	CA	West Region
+California State University, Fullerton	Big West Conference	D1		Public	No	CA	West Region
+California State University, Northridge	Big West Conference	D1		Public	No	CA	West Region
+California State University, Sacramento	Big Sky Conference	D1		Public	No	CA	West Region
+Campbell University	Big South Conference	D1		Private	No	NC	East Region
+Canisius College	Metro Atlantic Athletic Conference	D1		Private	No	NY	East Region
+Central Connecticut State University	Northeast Conference	D1		Public	No	CT	East Region
+Central Michigan University	Mid-American Conference	D1		Public	No	MI	East Region
+Charleston Southern University	Big South Conference	D1		Private	No	SC	East Region
+Chicago State University	Western Athletic Conference	D1		Public	No	IL	West Region
+Clemson University	Atlantic Coast Conference	D1		Public	No	SC	East Region
+Coastal Carolina University	Sun Belt Conference	D1		Public	No	SC	East Region
+Colgate University	Patriot League	D1		Private	No	NY	East Region
+College of the Holy Cross	Patriot League	D1		Private	No	MA	East Region
+Colorado State University	Mountain West Conference	D1		Public	No	CO	West Region
+Columbia University-Barnard College	The Ivy League	D1		Private	No	NY	East Region
+Coppin State University	Mid-Eastern Athletic Conf.	D1		Public	Yes	MD	East Region
+Cornell University	The Ivy League	D1		Private	No	NY	East Region
+Dartmouth College	The Ivy League	D1		Private	No	NH	East Region
+Davidson College	Atlantic 10 Conference	D1		Private	No	NC	East Region
+Delaware State University	Mid-Eastern Athletic Conf.	D1		Public	Yes	DE	East Region
+DePaul University	Big East Conference	D1		Private	No	IL	West Region
+Drake University	Missouri Valley Conference	D1		Private	No	IA	West Region
+Duke University	Atlantic Coast Conference	D1		Private	No	NC	East Region
+Duquesne University	Atlantic 10 Conference	D1		Private	No	PA	East Region
+East Carolina University	American Athletic Conference	D1		Public	No	NC	East Region
+East Tennessee State University	Southern Conference	D1		Public	No	TN	East Region
+Eastern Illinois University	Ohio Valley Conference	D1		Public	No	IL	West Region
+Eastern Kentucky University	Ohio Valley Conference	D1		Public	No	KY	East Region
+Eastern Michigan University	Mid-American Conference	D1		Public	No	MI	East Region
+Eastern Washington University	Big Sky Conference	D1		Public	No	WA	West Region
+Fairleigh Dickinson University, Metropolitan Campus	Northeast Conference	D1		Private	No	NJ	East Region
+Florida A&M University	Mid-Eastern Athletic Conf.	D1		Public	Yes	FL	East Region
+Florida International University	Conference USA	D1		Public	No	FL	East Region
+Florida State University	Atlantic Coast Conference	D1		Public	No	FL	East Region
+Fordham University	Atlantic 10 Conference	D1		Private	No	NY	East Region
+Furman University	Southern Conference	D1		Private	No	SC	East Region
+Gardner-Webb University	Big South Conference	D1		Private	No	NC	East Region
+George Mason University	Atlantic 10 Conference	D1		Public	No	VA	East Region
+George Washington University	Atlantic 10 Conference	D1		Private	No	DC	Unassigned
+Georgetown University	Big East Conference	D1		Private	No	DC	East Region
+Georgia Institute of Technology	Atlantic Coast Conference	D1		Public	No	GA	East Region
+Gonzaga University	West Coast Conference	D1		Private	No	WA	West Region
+Grambling State University	Southwestern Athletic Conf.	D1		Public	Yes	LA	East Region
+Grand Canyon University	Western Athletic Conference	D1		Private	No	AZ	West Region
+Hampton University	Big South Conference	D1		Private	Yes	VA	East Region
+Harvard University	The Ivy League	D1		Private	No	MA	East Region
+High Point University	Big South Conference	D1		Private	No	NC	East Region
+Hofstra University	Colonial Athletic Association	D1		Private	No	NY	Unassigned
+Houston Baptist University	Southland Conference	D1		Private	No	TX	West Region
+Howard University	Mid-Eastern Athletic Conf.	D1		Private	Yes	DC	East Region
+Idaho State University	Big Sky Conference	D1		Public	No	ID	West Region
+Illinois State University	Missouri Valley Conference	D1		Public	No	IL	West Region
+Indiana State University	Missouri Valley Conference	D1		Public	No	IN	East Region
+Indiana University, Bloomington	Big Ten Conference	D1		Public	No	IN	East Region
+Indiana University-Purdue University Indianapolis	Horizon League	D1		Public	No	IN	East Region
+Iona College	Metro Atlantic Athletic Conference	D1		Private	No	NY	East Region
+Iowa State University	Big 12 Conference	D1		Public	No	IA	West Region
+Jackson State University	Southwestern Athletic Conf.	D1		Public	Yes	MS	East Region
+Kansas State University	Big 12 Conference	D1		Public	No	KS	West Region
+Kennesaw State University	ASUN Conference	D1		Public	No	GA	East Region
+Kent State University	Mid-American Conference	D1		Public	No	OH	East Region
+La Salle University	Atlantic 10 Conference	D1		Private	No	PA	East Region
+Lafayette College	Patriot League	D1		Private	No	PA	East Region
+Lamar University	Southland Conference	D1		Public	No	TX	West Region
+Lehigh University	Patriot League	D1		Private	No	PA	East Region
+Liberty University	ASUN Conference	D1		Private	No	VA	East Region
+Lipscomb University	ASUN Conference	D1		Private	No	TN	East Region
+Long Beach State University	Big West Conference	D1		Public	No	CA	West Region
+Long Island University	Northeast Conference	D1		Private	No	NY	East Region
+Louisiana State University	Southeastern Conference	D1		Public	No	LA	East Region
+Louisiana Tech University	Conference USA	D1		Public	No	LA	East Region
+Loyola Marymount University		D1		Private	No	CA	West Region
+Loyola University Chicago	Missouri Valley Conference	D1		Private	No	IL	West Region
+Manhattan College	Metro Atlantic Athletic Conference	D1		Private	No	NY	East Region
+Marist College	Metro Atlantic Athletic Conference	D1		Private	No	NY	East Region
+Marquette University	Big East Conference	D1		Private	No	WI	West Region
+McNeese State University	Southland Conference	D1		Public	No	LA	East Region
+Miami University (Ohio)	Mid-American Conference	D1		Public	No	OH	East Region
+Michigan State University	Big Ten Conference	D1		Public	No	MI	East Region
+Middle Tennessee State University	Conference USA	D1		Public	No	TN	East Region
+Mississippi State University	Southeastern Conference	D1		Public	No	MS	East Region
+Mississippi Valley State University	Southwestern Athletic Conf.	D1		Public	Yes	MS	East Region
+Monmouth University	Metro Atlantic Athletic Conference	D1		Private	No	NJ	East Region
+Montana State University-Bozeman	Big Sky Conference	D1		Public	No	MT	West Region
+Morehead State University	Ohio Valley Conference	D1		Public	No	KY	East Region
+Morgan State University	Mid-Eastern Athletic Conf.	D1		Public	Yes	MD	East Region
+Mount St. Mary's University	Northeast Conference	D1		Private	No	MD	East Region
+New Jersey Institute of Technology	ASUN Conference	D1		Public	No	NJ	East Region
+Nicholls State University	Southland Conference	D1		Public	No	LA	Unassigned
+Norfolk State University	Mid-Eastern Athletic Conf.	D1		Public	Yes	VA	East Region
+North Carolina A&T State University	Mid-Eastern Athletic Conf.	D1		Public	Yes	NC	East Region
+North Carolina Central University	Mid-Eastern Athletic Conf.	D1		Public	Yes	NC	East Region
+North Carolina State University	Atlantic Coast Conference	D1		Public	No	NC	East Region
+North Dakota State University	The Summit League	D1		Public	No	ND	West Region
+Northeastern University	Colonial Athletic Association	D1		Private	No	MA	East Region
+Northern Arizona University	Big Sky Conference	D1		Public	No	AZ	West Region
+Northern Kentucky University	Horizon League	D1		Public	No	KY	Unassigned
+Northwestern State University	Southland Conference	D1		Public	No	LA	East Region
+Oakland University	Horizon League	D1		Public	No	MI	East Region
+Oklahoma State University	Big 12 Conference	D1		Public	No	OK	West Region
+Oral Roberts University	The Summit League	D1		Private	No	OK	West Region
+Pennsylvania State University	Big Ten Conference	D1		Public	No	PA	East Region
+Pepperdine University		D1		Private	No	CA	West Region
+Portland State University	Big Sky Conference	D1		Public	No	OR	West Region
+Prairie View A&M University	Southwestern Athletic Conf.	D1		Public	Yes	TX	West Region
+Princeton University	The Ivy League	D1		Private	No	NJ	East Region
+Providence College	Big East Conference	D1		Private	No	RI	East Region
+Purdue University	Big Ten Conference	D1		Public	No	IN	East Region
+Purdue University Fort Wayne	The Summit League	D1		Public	No	IN	Unassigned
+Rice University	Conference USA	D1		Private	No	TX	West Region
+Rider University	Metro Atlantic Athletic Conference	D1		Private	No	NJ	East Region
+Rutgers, The State University of New Jersey, New Brunswick	Big Ten Conference	D1		Public	No	NJ	East Region
+Sacred Heart University	Northeast Conference	D1		Private	No	CT	East Region
+Saint Francis University (Pennsylvania)	Northeast Conference	D1		Private	No	PA	East Region
+Saint Joseph's University	Atlantic 10 Conference	D1		Private	No	PA	East Region
+Saint Louis University	Atlantic 10 Conference	D1		Private	No	MO	West Region
+Saint Mary's College of California		D1		Private	No	CA	West Region
+Saint Peter's University	Metro Atlantic Athletic Conference	D1		Private	No	NJ	East Region
+Sam Houston State University	Southland Conference	D1		Public	No	TX	West Region
+Samford University	Southern Conference	D1		Private	No	AL	East Region
+San Jose State University	Mountain West Conference	D1		Public	No	CA	West Region
+Santa Clara University	West Coast Conference	D1		Private	No	CA	West Region
+Savannah State University	Southern Intercol. Ath. Conf.	D1		Public	Yes	GA	East Region
+Seattle University	Western Athletic Conference	D1		Private	No	WA	West Region
+Siena College	Metro Atlantic Athletic Conference	D1		Private	No	NY	Unassigned
+South Carolina State University	Mid-Eastern Athletic Conf.	D1		Public	Yes	SC	East Region
+South Dakota State University	The Summit League	D1		Public	No	SD	West Region
+Southeast Missouri State University	Ohio Valley Conference	D1		Public	No	MO	West Region
+Southeastern Louisiana University	Southland Conference	D1		Public	No	LA	East Region
+Southern Illinois University at Carbondale	Missouri Valley Conference	D1		Public	No	IL	West Region
+Southern Illinois University Edwardsville	Ohio Valley Conference	D1		Public	No	IL	West Region
+Southern University, Baton Rouge	Southwestern Athletic Conf.	D1		Public	Yes	LA	East Region
+Southern Utah University	Big Sky Conference	D1		Public	No	UT	West Region
+St. Bonaventure University	Atlantic 10 Conference	D1		Private	No	NY	Unassigned
+St. Francis College Brooklyn	Northeast Conference	D1		Private	No	NY	East Region
+Stanford University	Pac-12 Conference	D1		Private	No	CA	West Region
+Stephen F. Austin State University	Southland Conference	D1		Public	No	TX	West Region
+Stony Brook University	America East Conference	D1		Public	No	NY	East Region
+Syracuse University	Atlantic Coast Conference	D1		Private	No	NY	East Region
+Tennessee State University	Ohio Valley Conference	D1		Public	Yes	TN	East Region
+Texas A&M University, College Station	Southeastern Conference	D1		Public	No	TX	West Region
+Texas A&M University-Corpus Christi	Southland Conference	D1		Public	No	TX	West Region
+Texas Christian University	Big 12 Conference	D1		Private	No	TX	West Region
+Texas Southern University	Southwestern Athletic Conf.	D1		Public	Yes	TX	West Region
+Texas State University	Sun Belt Conference	D1		Public	No	TX	West Region
+Texas Tech University	Big 12 Conference	D1		Public	No	TX	West Region
+The Citadel	Southern Conference	D1		Public	No	SC	East Region
+The Ohio State University	Big Ten Conference	D1		Public	No	OH	East Region
+The University of North Carolina at Charlotte	Conference USA	D1		Public	No	NC	East Region
+The University of North Carolina at Greensboro	Southern Conference	D1		Public	No	NC	East Region
+The University of Southern Mississippi	Conference USA	D1		Public	No	MS	East Region
+The University of Texas Rio Grande Valley	Western Athletic Conference	D1		Public	No	TX	West Region
+The University of Tulsa	American Athletic Conference	D1		Private	No	OK	West Region
+Troy University	Sun Belt Conference	D1		Public	No	AL	East Region
+Tulane University	American Athletic Conference	D1		Private	No	LA	East Region
+U.S. Air Force Academy	Mountain West Conference	D1		Public	No	CO	West Region
+U.S. Military Academy	Patriot League	D1		Public	No	NY	East Region
+U.S. Naval Academy	Patriot League	D1		Public	No	MD	East Region
+University at Albany	America East Conference	D1		Public	No	NY	East Region
+University at Buffalo, the State University of New York	Mid-American Conference	D1		Public	No	NY	East Region
+University of Akron	Mid-American Conference	D1		Public	No	OH	East Region
+University of Alabama	Southeastern Conference	D1		Public	No	AL	East Region
+University of Arizona	Pac-12 Conference	D1		Public	No	AZ	West Region
+University of Arkansas at Little Rock	Sun Belt Conference	D1		Public	No	AR	West Region
+University of Arkansas, Fayetteville	Southeastern Conference	D1		Public	No	AR	West Region
+University of Arkansas, Pine Bluff	Southwestern Athletic Conf.	D1		Public	Yes	AR	West Region
+University of California, Berkeley	Pac-12 Conference	D1		Public	No	CA	West Region
+University of California, Davis	Big West Conference	D1		Public	No	CA	West Region
+University of California, Irvine	Big West Conference	D1		Public	No	CA	West Region
+University of California, Los Angeles	Pac-12 Conference	D1		Public	No	CA	West Region
+University of California, Riverside	Mountain Pacific Sports Federation	D1		Public	No	CA	West Region
+University of California, Santa Barbara	Big West Conference	D1		Public	No	CA	West Region
+University of Central Arkansas	Southland Conference	D1		Public	No	AR	West Region
+University of Cincinnati	American Athletic Conference	D1		Public	No	OH	East Region
+University of Colorado, Boulder	Pac-12 Conference	D1		Public	No	CO	West Region
+University of Connecticut	American Athletic Conference	D1		Public	No	CT	East Region
+University of Detroit Mercy	Horizon League	D1		Private	No	MI	East Region
+University of Evansville	Missouri Valley Conference	D1		Private	No	IN	Unassigned
+University of Florida	Southeastern Conference	D1		Public	No	FL	East Region
+University of Georgia	Southeastern Conference	D1		Public	No	GA	East Region
+University of Hartford	America East Conference	D1		Private	No	CT	East Region
+University of Houston	American Athletic Conference	D1		Public	No	TX	West Region
+University of Idaho	Big Sky Conference	D1		Public	No	ID	West Region
+University of Illinois at Chicago	Horizon League	D1		Public	No	IL	West Region
+University of Illinois Urbana-Champaign	Big Ten Conference	D1		Public	No	IL	West Region
+University of Iowa	Big Ten Conference	D1		Public	No	IA	West Region
+University of Kansas	Big 12 Conference	D1		Public	No	KS	West Region
+University of Kentucky	Southeastern Conference	D1		Public	No	KY	East Region
+University of Louisiana at Lafayette	Sun Belt Conference	D1		Public	No	LA	East Region
+University of Louisiana Monroe	Sun Belt Conference	D1		Public	No	LA	East Region
+University of Louisville	Atlantic Coast Conference	D1		Public	No	KY	East Region
+University of Maine	America East Conference	D1		Public	No	ME	East Region
+University of Maryland Eastern Shore	Mid-Eastern Athletic Conf.	D1		Public	Yes	MD	East Region
+University of Maryland, Baltimore County	America East Conference	D1		Public	No	MD	East Region
+University of Maryland, College Park	Big Ten Conference	D1		Public	No	MD	East Region
+University of Massachusetts Lowell	America East Conference	D1		Public	No	MA	East Region
+University of Massachusetts, Amherst	Atlantic 10 Conference	D1		Public	No	MA	East Region
+University of Memphis	American Athletic Conference	D1		Public	No	TN	East Region
+University of Miami (Florida)	Atlantic Coast Conference	D1		Private	No	FL	East Region
+University of Michigan	Big Ten Conference	D1		Public	No	MI	East Region
+University of Minnesota, Twin Cities	Big Ten Conference	D1		Public	No	MN	West Region
+University of Mississippi	Southeastern Conference	D1		Public	No	MS	East Region
+University of Missouri, Columbia	Southeastern Conference	D1		Public	No	MO	West Region
+University of Missouri-Kansas City	Western Athletic Conference	D1		Public	No	MO	West Region
+University of Montana	Big Sky Conference	D1		Public	No	MT	West Region
+University of Nebraska, Lincoln	Big Ten Conference	D1		Public	No	NE	West Region
+University of New Hampshire	America East Conference	D1		Public	No	NH	East Region
+University of New Mexico	Mountain West Conference	D1		Public	No	NM	West Region
+University of New Orleans	Southland Conference	D1		Public	No	LA	East Region
+University of North Carolina Asheville	Big South Conference	D1		Public	No	NC	East Region
+University of North Carolina Wilmington	Colonial Athletic Association	D1		Public	No	NC	East Region
+University of North Carolina, Chapel Hill	Atlantic Coast Conference	D1		Public	No	NC	East Region
+University of North Dakota	The Summit League	D1		Public	No	ND	West Region
+University of North Florida	ASUN Conference	D1		Public	No	FL	East Region
+University of North Texas	Conference USA	D1		Public	No	TX	West Region
+University of Northern Colorado	Big Sky Conference	D1		Public	No	CO	West Region
+University of Northern Iowa	Missouri Valley Conference	D1		Public	No	IA	West Region
+University of Notre Dame	Atlantic Coast Conference	D1		Private	No	IN	East Region
+University of Oklahoma	Big 12 Conference	D1		Public	No	OK	West Region
+University of Oregon	Pac-12 Conference	D1		Public	No	OR	West Region
+University of Pennsylvania	The Ivy League	D1		Private	No	PA	East Region
+University of Pittsburgh	Atlantic Coast Conference	D1		Public	No	PA	East Region
+University of Portland	Mountain Pacific Sports Federation	D1		Private	No	OR	West Region
+University of Rhode Island	Atlantic 10 Conference	D1		Public	No	RI	East Region
+University of South Alabama	Sun Belt Conference	D1		Public	No	AL	East Region
+University of South Carolina Upstate	Big South Conference	D1		Public	No	SC	East Region
+University of South Carolina, Columbia	Southeastern Conference	D1		Public	No	SC	East Region
+University of South Dakota	The Summit League	D1		Public	No	SD	West Region
+University of South Florida	American Athletic Conference	D1		Public	No	FL	East Region
+University of Southern California	Mountain Pacific Sports Federation	D1		Private	No	CA	West Region
+University of Tennessee at Martin	Ohio Valley Conference	D1		Public	No	TN	Unassigned
+University of Tennessee, Knoxville	Southeastern Conference	D1		Public	No	TN	East Region
+University of Texas at Arlington	Sun Belt Conference	D1		Public	No	TX	West Region
+University of Texas at Austin	Big 12 Conference	D1		Public	No	TX	West Region
+University of Texas at El Paso	Conference USA	D1		Public	No	TX	West Region
+University of Texas at San Antonio	Conference USA	D1		Public	No	TX	West Region
+University of the Incarnate Word	Southland Conference	D1		Private	No	TX	Unassigned
+University of Vermont	America East Conference	D1		Public	No	VT	East Region
+University of Virginia	Atlantic Coast Conference	D1		Public	No	VA	East Region
+University of Washington	Pac-12 Conference	D1		Public	No	WA	West Region
+University of Wisconsin-Madison	Big Ten Conference	D1		Public	No	WI	West Region
+University of Wisconsin-Milwaukee	Horizon League	D1		Public	No	WI	West Region
+University of Wyoming	Mountain West Conference	D1		Public	No	WY	West Region
+Utah State University	Mountain West Conference	D1		Public	No	UT	West Region
+Utah Valley University	Western Athletic Conference	D1		Public	No	UT	West Region
+Valparaiso University	Missouri Valley Conference	D1		Private	No	IN	East Region
+Villanova University	Big East Conference	D1		Private	No	PA	East Region
+Virginia Commonwealth University	Atlantic 10 Conference	D1		Public	No	VA	East Region
+Virginia Military Institute	Southern Conference	D1		Public	No	VA	East Region
+Virginia Polytechnic Institute and State University	Atlantic Coast Conference	D1		Public	No	VA	East Region
+Wagner College	Northeast Conference	D1		Private	No	NY	East Region
+Wake Forest University	Atlantic Coast Conference	D1		Private	No	NC	East Region
+Washington State University	Pac-12 Conference	D1		Public	No	WA	West Region
+Weber State University	Big Sky Conference	D1		Public	No	UT	West Region
+Western Carolina University	Southern Conference	D1		Public	No	NC	East Region
+Western Illinois University	The Summit League	D1		Public	No	IL	West Region
+Western Kentucky University	Conference USA	D1		Public	No	KY	East Region
+Wichita State University	American Athletic Conference	D1		Public	No	KS	West Region
+William & Mary	Colonial Athletic Association	D1		Public	No	VA	East Region
+Winthrop University	Big South Conference	D1		Public	No	SC	East Region
+Wofford College	Southern Conference	D1		Private	No	SC	East Region
+Xavier University	Big East Conference	D1		Private	No	OH	East Region
+Yale University	The Ivy League	D1		Private	No	CT	East Region
+Youngstown State University	Horizon League	D1		Public	No	OH	East Region
+Academy of Art University	Pacific West Conference	D2		Private	No	CA	West Region
+Adams State University	Rocky Mountain Athletic Conference	D2		Public	No	CO	South Central Region
+Adelphi University	Northeast-10 Conference	D2		Private	No	NY	East Region
+Albany State University (Georgia)	Southern Intercol. Ath. Conf.	D2		Public	Yes	GA	South Region
+Alderson Broaddus University	Great Midwest Athletic Conference	D2		Private	No	WV	Midwest Region
+American International College	Northeast-10 Conference	D2		Private	No	MA	East Region
+Anderson University (South Carolina)	South Atlantic Conference	D2		Private	No	SC	Southeast Region
+Angelo State University	Lone Star Conference	D2		Public	No	TX	South Central Region
+Ashland University	Great Lakes Intercollegiate Athletic Conference	D2		Private	No	OH	Midwest Region
+Assumption College	Northeast-10 Conference	D2		Private	No	MA	East Region
+Augusta University	Peach Belt Conference	D2		Public	No	GA	Southeast Region
+Augustana University (South Dakota)	Northern Sun Intercollegiate Conference	D2		Private	No	SD	Central Region
+Azusa Pacific University	Pacific West Conference	D2		Private	No	CA	West Region
+Barton College	Conference Carolinas	D2		Private	No	NC	Southeast Region
+Bellarmine University	Great Lakes Valley Conference	D2		Private	No	KY	Midwest Region
+Belmont Abbey College	Conference Carolinas	D2		Private	No	NC	Southeast Region
+Benedict College	Southern Intercol. Ath. Conf.	D2		Private	Yes	SC	South Region
+Bentley University	Northeast-10 Conference	D2		Private	No	MA	East Region
+Biola University	Pacific West Conference	D2		Private	No	CA	West Region
+Black Hills State University	Rocky Mountain Athletic Conference	D2		Public	No	SD	South Central Region
+Bloomfield College	Central Atlantic Collegiate Conference	D2		Private	No	NJ	East Region
+Bloomsburg University of Pennsylvania	Pennsylvania State Athletic Conference	D2		Public	No	PA	Atlantic Region
+Bowie State University	Central Intercollegiate Athletic Association	D2		Public	Yes	MD	Atlantic Region
+Brevard College	USA South Athletic Conference	D2		Private	No	NC	Southeast Region
+Caldwell University	Central Atlantic Collegiate Conference	D2		Private	No	NJ	East Region
+California Baptist University	Western Athletic Conference	D2		Private	No	CA	West Region
+California State Polytechnic University, Pomona	California Collegiate Athletic Association	D2		Public	No	CA	West Region
+California State University, Chico	California Collegiate Athletic Association	D2		Public	No	CA	West Region
+California State University, East Bay	California Collegiate Athletic Association	D2		Public	No	CA	West Region
+California State University, Los Angeles	California Collegiate Athletic Association	D2		Public	No	CA	West Region
+California State University, San Marcos	California Collegiate Athletic Association	D2		Public	No	CA	West Region
+California State University, Stanislaus	California Collegiate Athletic Association	D2		Public	No	CA	West Region
+California University of Pennsylvania	Pennsylvania State Athletic Conference	D2		Public	No	PA	Atlantic Region
+Cameron University	Lone Star Conference	D2		Public	No	OK	South Central Region
+Carson-Newman University	South Atlantic Conference	D2		Private	No	TN	Southeast Region
+Catawba College	South Atlantic Conference	D2		Private	No	NC	Southeast Region
+Cedarville University	Great Midwest Athletic Conference	D2		Private	No	OH	Midwest Region
+Central State University	Southern Intercol. Ath. Conf.	D2		Public	Yes	OH	South Region
+Central Washington University	Great Northwest Athletic Conference	D2		Public	No	WA	West Region
+Chadron State College	Rocky Mountain Athletic Conference	D2		Public	No	NE	South Central Region
+Chestnut Hill College	Central Atlantic Collegiate Conference	D2		Private	No	PA	East Region
+Christian Brothers University	Gulf South Conference	D2		Private	No	TN	South Region
+Claflin University	Central Intercollegiate Athletic Association	D2		Private	Yes	SC	Atlantic Region
+Clayton State University	Peach Belt Conference	D2		Public	No	GA	Southeast Region
+Coker University	South Atlantic Conference	D2		Private	No	SC	Southeast Region
+Colorado Christian University	Rocky Mountain Athletic Conference	D2		Private	No	CO	South Central Region
+Colorado Mesa University	Rocky Mountain Athletic Conference	D2		Public	No	CO	South Central Region
+Colorado School of Mines	Rocky Mountain Athletic Conference	D2		Public	No	CO	South Central Region
+Colorado State University-Pueblo	Rocky Mountain Athletic Conference	D2		Public	No	CO	South Central Region
+Columbus State University	Peach Belt Conference	D2		Public	No	GA	Southeast Region
+Concord University	Mountain East Conference	D2		Public	No	WV	Atlantic Region
+Concordia University Irvine	Pacific West Conference	D2		Private	No	CA	West Region
+Concordia University Portland	Great Northwest Athletic Conference	D2		Private	No	OR	West Region
+Concordia University, St. Paul	Northern Sun Intercollegiate Conference	D2		Private	No	MN	Central Region
+Daemen College	East Coast Conference	D2		Private	No	NY	East Region
+Dallas Baptist University	Lone Star Conference	D2		Private	No	TX	South Central Region
+Davenport University	Great Lakes Intercollegiate Athletic Conference	D2		Private	No	MI	Midwest Region
+Davis & Elkins College	Mountain East Conference	D2		Private	No	WV	Midwest Region
+Dominican College (New York)	Central Atlantic Collegiate Conference	D2		Private	No	NY	East Region
+Drury University	Great Lakes Valley Conference	D2		Private	No	MO	Midwest Region
+East Central University	Great American Conference	D2		Public	No	OK	Central Region
+East Stroudsburg University of Pennsylvania	Pennsylvania State Athletic Conference	D2		Public	No	PA	Atlantic Region
+Eastern New Mexico University	Lone Star Conference	D2		Public	No	NM	South Central Region
+Edinboro University of Pennsylvania	Pennsylvania State Athletic Conference	D2		Public	No	PA	Atlantic Region
+Embry-Riddle Aeronautical University (Florida)	Peach Belt Conference	D2		Private	No	FL	Southeast Region
+Emmanuel College (Georgia)	Conference Carolinas	D2		Private	No	GA	Southeast Region
+Emporia State University	Mid-America Intercollegiate Athletics Association	D2		Public	No	KS	Central Region
+Erskine College	Conference Carolinas	D2		Private	No	SC	Unassigned
+Ferris State University	Great Lakes Intercollegiate Athletic Conference	D2		Public	No	MI	Midwest Region
+Florida Institute of Technology	Sunshine State Conference	D2		Private	No	FL	South Region
+Florida Southern College	Sunshine State Conference	D2		Private	No	FL	South Region
+Fort Hays State University	Mid-America Intercollegiate Athletics Association	D2		Public	No	KS	Central Region
+Fort Lewis College	Rocky Mountain Athletic Conference	D2		Public	No	CO	South Central Region
+Fort Valley State University	Southern Intercol. Ath. Conf.	D2		Public	Yes	GA	South Region
+Francis Marion University	Peach Belt Conference	D2		Public	No	SC	Southeast Region
+Franklin Pierce University	Northeast-10 Conference	D2		Private	No	NH	East Region
+Fresno Pacific University	Pacific West Conference	D2		Private	No	CA	West Region
+Georgian Court University	Central Atlantic Collegiate Conference	D2		Private	No	NJ	East Region
+Glenville State College	Mountain East Conference	D2		Public	No	WV	Atlantic Region
+Goldey-Beacom College	Central Atlantic Collegiate Conference	D2		Private	No	DE	East Region
+Grand Valley State University	Great Lakes Intercollegiate Athletic Conference	D2		Public	No	MI	Midwest Region
+Harding University	Great American Conference	D2		Private	No	AR	Central Region
+Hillsdale College	Great Midwest Athletic Conference	D2		Private	No	MI	Midwest Region
+Holy Family University	Central Atlantic Collegiate Conference	D2		Private	No	PA	East Region
+Humboldt State University	California Collegiate Athletic Association	D2		Public	No	CA	West Region
+Indiana University of Pennsylvania	Pennsylvania State Athletic Conference	D2		Public	No	PA	Atlantic Region
+Johnson C. Smith University	Central Intercollegiate Athletic Association	D2		Private	Yes	NC	Atlantic Region
+Kentucky State University	Southern Intercol. Ath. Conf.	D2		Public	Yes	KY	South Region
+Kentucky Wesleyan College	Great Midwest Athletic Conference	D2		Private	No	KY	Midwest Region
+King University	Conference Carolinas	D2		Private	No	TN	Southeast Region
+Kutztown University of Pennsylvania	Pennsylvania State Athletic Conference	D2		Public	No	PA	Atlantic Region
+Lake Erie College	Great Midwest Athletic Conference	D2		Private	No	OH	Midwest Region
+Lake Superior State University	Great Lakes Intercollegiate Athletic Conference	D2		Public	No	MI	Midwest Region
+Lane College	Southern Intercol. Ath. Conf.	D2		Private	Yes	TN	South Region
+Le Moyne College	Northeast-10 Conference	D2		Private	No	NY	East Region
+Lee University	Gulf South Conference	D2		Private	No	TN	South Region
+Lees-McRae College	Conference Carolinas	D2		Private	No	NC	Southeast Region
+Lenoir-Rhyne University	South Atlantic Conference	D2		Private	No	NC	Southeast Region
+Lewis University	Great Lakes Valley Conference	D2		Private	No	IL	Midwest Region
+Limestone College	Conference Carolinas	D2		Private	No	SC	Southeast Region
+Lincoln Memorial University	South Atlantic Conference	D2		Private	No	TN	Southeast Region
+Lincoln University (Missouri)	Mid-America Intercollegiate Athletics Association	D2		Public	Yes	MO	Central Region
+Lincoln University (Pennsylvania)	Central Intercollegiate Athletic Association	D2		Public	Yes	PA	Atlantic Region
+Lindenwood University	Great Lakes Valley Conference	D2		Private	No	MO	Central Region
+Livingstone College	Central Intercollegiate Athletic Association	D2		Private	Yes	NC	Atlantic Region
+Lock Haven University of Pennsylvania	Pennsylvania State Athletic Conference	D2		Public	No	PA	Atlantic Region
+Lubbock Christian University	Lone Star Conference	D2		Private	No	TX	South Central Region
+Lynn University		D2		Private	No	FL	Unassigned
+Malone University	Great Midwest Athletic Conference	D2		Private	No	OH	Midwest Region
+Mansfield University of Pennsylvania	Pennsylvania State Athletic Conference	D2		Public	No	PA	Atlantic Region
+Mars Hill University	South Atlantic Conference	D2		Private	No	NC	Southeast Region
+Maryville University of Saint Louis	Great Lakes Valley Conference	D2		Private	No	MO	Midwest Region
+McKendree University	Great Lakes Valley Conference	D2		Private	No	IL	Midwest Region
+Merrimack College	Northeast Conference	D2		Private	No	MA	East Region
+Metropolitan State University of Denver	Rocky Mountain Athletic Conference	D2		Public	No	CO	South Central Region
+Michigan Technological University	Great Lakes Intercollegiate Athletic Conference	D2		Public	No	MI	Midwest Region
+Minnesota State University Moorhead	Northern Sun Intercollegiate Conference	D2		Public	No	MN	Central Region
+Minnesota State University, Mankato	Northern Sun Intercollegiate Conference	D2		Public	No	MN	Central Region
+Minot State University	Northern Sun Intercollegiate Conference	D2		Public	No	ND	Central Region
+Mississippi College	Gulf South Conference	D2		Private	No	MS	South Region
+Missouri Southern State University	Mid-America Intercollegiate Athletics Association	D2		Public	No	MO	Central Region
+Missouri University of Science and Technology	Great Lakes Valley Conference	D2		Public	No	MO	Midwest Region
+Missouri Western State University	Mid-America Intercollegiate Athletics Association	D2		Public	No	MO	Central Region
+Molloy College	East Coast Conference	D2		Private	No	NY	East Region
+Montana State University Billings	Great Northwest Athletic Conference	D2		Public	No	MT	West Region
+Morehouse College	Southern Intercol. Ath. Conf.	D2		Private	Yes	GA	South Region
+New York Institute of Technology	East Coast Conference	D2		Private	No	NY	East Region
+Newberry College	South Atlantic Conference	D2		Private	No	SC	Southeast Region
+North Greenville University	Conference Carolinas	D2		Private	No	SC	Southeast Region
+Northern State University	Northern Sun Intercollegiate Conference	D2		Public	No	SD	Central Region
+Northwest Missouri State University	Mid-America Intercollegiate Athletics Association	D2		Public	No	MO	Central Region
+Northwest Nazarene University	Great Northwest Athletic Conference	D2		Private	No	ID	West Region
+Northwood University	Great Lakes Intercollegiate Athletic Conference	D2		Private	No	MI	Midwest Region
+Notre Dame de Namur University	Pacific West Conference	D2		Private	No	CA	West Region
+Nova Southeastern University	Peach Belt Conference	D2		Private	No	FL	Southeast Region
+Nyack College	Central Atlantic Collegiate Conference	D2		Private	No	NY	East Region
+Ohio Dominican University	Great Midwest Athletic Conference	D2		Private	No	OH	Midwest Region
+Ohio Valley University	Great Midwest Athletic Conference	D2		Private	No	WV	Midwest Region
+Oklahoma Baptist University	Great American Conference	D2		Private	No	OK	Central Region
+Oklahoma Christian University	Lone Star Conference	D2		Private	No	OK	Central Region
+Paine College	Southern Intercol. Ath. Conf.	D2		Private	Yes	GA	South Region
+Palm Beach Atlantic University	Sunshine State Conference	D2		Private	No	FL	South Region
+Pfeiffer University	USA South Athletic Conference	D2		Private	No	NC	Southeast Region
+Pittsburg State University	Mid-America Intercollegiate Athletics Association	D2		Public	No	KS	Central Region
+Post University	Central Atlantic Collegiate Conference	D2		Private	No	CT	East Region
+Queens College (New York)	East Coast Conference	D2		Public	No	NY	East Region
+Queens University of Charlotte	South Atlantic Conference	D2		Private	No	NC	Southeast Region
+Quincy University	Great Lakes Valley Conference	D2		Private	No	IL	Unassigned
+Roberts Wesleyan College	East Coast Conference	D2		Private	No	NY	East Region
+Rogers State University	Mid-America Intercollegiate Athletics Association	D2		Public	No	OK	Central Region
+Saginaw Valley State University	Great Lakes Intercollegiate Athletic Conference	D2		Public	No	MI	Midwest Region
+Saint Augustine's University	Central Intercollegiate Athletic Association	D2		Private	Yes	NC	Atlantic Region
+Saint Leo University	Sunshine State Conference	D2		Private	No	FL	South Region
+Saint Martin's University	Great Northwest Athletic Conference	D2		Private	No	WA	West Region
+Salem University (West Virginia)		D2		Private	No	WV	Atlantic Region
+San Francisco State University	California Collegiate Athletic Association	D2		Public	No	CA	Unassigned
+Seattle Pacific University	Great Northwest Athletic Conference	D2		Private	No	WA	West Region
+Seton Hill University	Pennsylvania State Athletic Conference	D2		Private	No	PA	Atlantic Region
+Shippensburg University of Pennsylvania	Pennsylvania State Athletic Conference	D2		Public	No	PA	Atlantic Region
+Shorter University	Gulf South Conference	D2		Private	No	GA	South Region
+Simon Fraser University	Great Northwest Athletic Conference	D2		Public	No	BC	West Region
+Slippery Rock University of Pennsylvania	Pennsylvania State Athletic Conference	D2		Public	No	PA	Atlantic Region
+South Dakota School of Mines & Technology	Rocky Mountain Athletic Conference	D2		Public	No	SD	South Central Region
+Southern Arkansas University	Great American Conference	D2		Public	No	AR	Central Region
+Southern Connecticut State University	Northeast-10 Conference	D2		Public	No	CT	East Region
+Southern Nazarene University	Great American Conference	D2		Private	No	OK	Central Region
+Southern Wesleyan University	Conference Carolinas	D2		Private	No	SC	Southeast Region
+Southwest Baptist University	Great Lakes Valley Conference	D2		Private	No	MO	Central Region
+Southwest Minnesota State University	Northern Sun Intercollegiate Conference	D2		Public	No	MN	Central Region
+Spring Hill College	Southern Intercol. Ath. Conf.	D2		Private	No	AL	South Region
+St. Edward's University	Lone Star Conference	D2		Private	No	TX	Unassigned
+St. Thomas Aquinas College	East Coast Conference	D2		Private	No	NY	East Region
+Stonehill College	Northeast-10 Conference	D2		Private	No	MA	East Region
+Tarleton State University	Lone Star Conference	D2		Public	No	TX	South Central Region
+Texas A&M University-Commerce	Lone Star Conference	D2		Public	No	TX	South Central Region
+Texas A&M University-Kingsville	Lone Star Conference	D2		Public	No	TX	South Central Region
+The College of Saint Rose	Northeast-10 Conference	D2		Private	No	NY	East Region
+Thomas Jefferson University	Central Intercollegiate Athletic Association	D2		Private	No	PA	East Region
+Tiffin University	Great Midwest Athletic Conference	D2		Private	No	OH	Midwest Region
+Trevecca Nazarene University	Great Midwest Athletic Conference	D2		Private	No	TN	Midwest Region
+Truman State University	Great Lakes Valley Conference	D2		Public	No	MO	Midwest Region
+Tusculum University	South Atlantic Conference	D2		Private	No	TN	Southeast Region
+Tuskegee University	Southern Intercol. Ath. Conf.	D2		Private	Yes	AL	South Region
+University of Alabama in Huntsville	Gulf South Conference	D2		Public	No	AL	South Region
+University of Alaska Anchorage	Great Northwest Athletic Conference	D2		Public	No	AK	West Region
+University of California, San Diego	California Collegiate Athletic Association	D2		Public	No	CA	West Region
+University of Central Missouri	Mid-America Intercollegiate Athletics Association	D2		Public	No	MO	Central Region
+University of Charleston (West Virginia)	Mountain East Conference	D2		Private	No	WV	Atlantic Region
+University of Colorado, Colorado Springs	Rocky Mountain Athletic Conference	D2		Public	No	CO	South Central Region
+University of Findlay	Great Midwest Athletic Conference	D2		Private	No	OH	Midwest Region
+University of Illinois at Springfield	Great Lakes Valley Conference	D2		Public	No	IL	Midwest Region
+University of Indianapolis	Great Lakes Valley Conference	D2		Private	No	IN	Midwest Region
+University of Mary	Northern Sun Intercollegiate Conference	D2		Private	No	ND	Central Region
+University of Minnesota Duluth	Northern Sun Intercollegiate Conference	D2		Public	No	MN	Central Region
+University of Missouri-St. Louis	Great Lakes Valley Conference	D2		Public	No	MO	Unassigned
+University of Montevallo	Gulf South Conference	D2		Public	No	AL	South Region
+University of Mount Olive	Conference Carolinas	D2		Private	No	NC	Southeast Region
+University of Nebraska at Kearney	Mid-America Intercollegiate Athletics Association	D2		Public	No	NE	Central Region
+University of New Haven	Northeast-10 Conference	D2		Private	No	CT	East Region
+University of North Carolina at Pembroke	Peach Belt Conference	D2		Public	No	NC	Southeast Region
+University of Pittsburgh, Johnstown	Pennsylvania State Athletic Conference	D2		Public	No	PA	Atlantic Region
+University of Puerto Rico, Mayaguez		D2		Public	No	PR	South Region
+University of Puerto Rico, Rio Piedras		D2		Public	No	PR	South Region
+University of Sioux Falls	Northern Sun Intercollegiate Conference	D2		Private	No	SD	Central Region
+University of Southern Indiana	Great Lakes Valley Conference	D2		Public	No	IN	Midwest Region
+University of Tampa		D2		Private	No	FL	South Region
+University of the Sciences	Central Atlantic Collegiate Conference	D2		Private	No	PA	East Region
+University of West Alabama	Gulf South Conference	D2		Public	No	AL	South Region
+University of Wisconsin-Parkside	Great Lakes Intercollegiate Athletic Conference	D2		Public	No	WI	Midwest Region
+Upper Iowa University	Northern Sun Intercollegiate Conference	D2		Private	No	IA	Unassigned
+Virginia State University	Central Intercollegiate Athletic Association	D2		Public	Yes	VA	Atlantic Region
+Virginia Union University	Central Intercollegiate Athletic Association	D2		Private	Yes	VA	Atlantic Region
+Walsh University	Great Midwest Athletic Conference	D2		Private	No	OH	Midwest Region
+Washburn University of Topeka	Mid-America Intercollegiate Athletics Association	D2		Public	No	KS	Central Region
+Wayne State College (Nebraska)	Northern Sun Intercollegiate Conference	D2		Public	No	NE	Central Region
+West Chester University of Pennsylvania	Pennsylvania State Athletic Conference	D2		Public	No	PA	Atlantic Region
+West Liberty University	Mountain East Conference	D2		Public	No	WV	Atlantic Region
+West Texas A&M University	Lone Star Conference	D2		Public	No	TX	South Central Region
+West Virginia Wesleyan College	Mountain East Conference	D2		Private	No	WV	Atlantic Region
+Western Colorado University	Rocky Mountain Athletic Conference	D2		Public	No	CO	South Central Region
+Western Oregon University	Great Northeast Athletic Conference	D2		Public	No	OR	West Region
+Western Washington University	Great Northwest Athletic Conference	D2		Public	No	WA	West Region
+Westminster College (Utah)	Rocky Mountain Athletic Conference	D2		Private	No	UT	South Central Region
+Wheeling University	Mountain East Conference	D2		Private	No	WV	Atlantic Region
+William Jewell College	Great Lakes Valley Conference	D2		Private	No	MO	Midwest Region
+Wilmington University (Delaware)	Central Atlantic Collegiate Conference	D2		Private	No	DE	East Region
+Wingate University	South Atlantic Conference	D2		Private	No	NC	Southeast Region

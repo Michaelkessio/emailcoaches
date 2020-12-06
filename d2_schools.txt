@@ -1,0 +1,290 @@
+California Baptist University Western Athletic
+Brevard College USA South Athletic
+Pfeiffer University USA South Athletic
+Embry-Riddle Aeronautical University (Florida) Sunshine State
+Florida Institute of Technology Sunshine State
+Florida Southern College Sunshine State
+Lynn University Sunshine State
+Nova Southeastern University Sunshine State
+Palm Beach Atlantic University Sunshine State
+Rollins College Sunshine State
+Saint Leo University Sunshine State
+University of Tampa Sunshine State
+Albany State University (Georgia) Southern Intercol. Ath.
+Benedict College Southern Intercol. Ath.
+Central State University Southern Intercol. Ath.
+Clark Atlanta University Southern Intercol. Ath.
+Fort Valley State University Southern Intercol. Ath.
+Kentucky State University Southern Intercol. Ath.
+Lane College Southern Intercol. Ath.
+LeMoyne-Owen College Southern Intercol. Ath.
+Miles College Southern Intercol. Ath.
+Morehouse College Southern Intercol. Ath.
+Paine College Southern Intercol. Ath.
+Spring Hill College Southern Intercol. Ath.
+Tuskegee University Southern Intercol. Ath.
+Anderson University (South Carolina) South Atlantic
+Carson-Newman University South Atlantic
+Catawba College South Atlantic
+Coker University South Atlantic
+Lenoir-Rhyne University South Atlantic
+Lincoln Memorial University South Atlantic
+Mars Hill University South Atlantic
+Newberry College South Atlantic
+Queens University of Charlotte South Atlantic
+The University of Virginia's College at Wise South Atlantic
+Tusculum University South Atlantic
+Wingate University South Atlantic
+Adams State University Rocky Mountain Athletic
+Black Hills State University Rocky Mountain Athletic
+Chadron State College Rocky Mountain Athletic
+Colorado Christian University Rocky Mountain Athletic
+Colorado Mesa University Rocky Mountain Athletic
+Colorado School of Mines Rocky Mountain Athletic
+Colorado State University-Pueblo Rocky Mountain Athletic
+Dixie State University Rocky Mountain Athletic
+Fort Lewis College Rocky Mountain Athletic
+Metropolitan State University of Denver Rocky Mountain Athletic
+New Mexico Highlands University Rocky Mountain Athletic
+Regis University (Colorado) Rocky Mountain Athletic
+South Dakota School of Mines & Technology Rocky Mountain Athletic
+University of Colorado, Colorado Springs Rocky Mountain Athletic
+Western Colorado University Rocky Mountain Athletic
+Westminster College (Utah) Rocky Mountain Athletic
+Bloomsburg University of Pennsylvania Pennsylvania State Athletic
+California University of Pennsylvania Pennsylvania State Athletic
+East Stroudsburg University of Pennsylvania Pennsylvania State Athletic
+Edinboro University of Pennsylvania Pennsylvania State Athletic
+Gannon University Pennsylvania State Athletic
+Indiana University of Pennsylvania Pennsylvania State Athletic
+Kutztown University of Pennsylvania Pennsylvania State Athletic
+Lock Haven University of Pennsylvania Pennsylvania State Athletic
+Mansfield University of Pennsylvania Pennsylvania State Athletic
+Mercyhurst University Pennsylvania State Athletic
+Seton Hill University Pennsylvania State Athletic
+Shippensburg University of Pennsylvania Pennsylvania State Athletic
+Slippery Rock University of Pennsylvania Pennsylvania State Athletic
+University of Pittsburgh, Johnstown Pennsylvania State Athletic
+West Chester University of Pennsylvania Pennsylvania State Athletic
+Augusta University Peach Belt
+Clayton State University Peach Belt
+Columbus State University Peach Belt
+Flagler College Peach Belt
+Francis Marion University Peach Belt
+Georgia College Peach Belt
+Georgia Southwestern State University Peach Belt
+Lander University Peach Belt
+University of North Carolina at Pembroke Peach Belt
+University of South Carolina Aiken Peach Belt
+Young Harris College Peach Belt
+Academy of Art University Pacific West
+Azusa Pacific University Pacific West
+Biola University Pacific West
+Chaminade University Pacific West
+Concordia University Irvine Pacific West
+Dominican University of California Pacific West
+Fresno Pacific University Pacific West
+Hawaii Pacific University Pacific West
+Holy Names University Pacific West
+Notre Dame de Namur University Pacific West
+Augustana University (South Dakota) Northern Sun Intercollegiate
+Concordia University, St. Paul Northern Sun Intercollegiate
+Minnesota State University Moorhead Northern Sun Intercollegiate
+Minnesota State University, Mankato Northern Sun Intercollegiate
+Minot State University Northern Sun Intercollegiate
+Northern State University Northern Sun Intercollegiate
+Southwest Minnesota State University Northern Sun Intercollegiate
+University of Mary Northern Sun Intercollegiate
+University of Minnesota Duluth Northern Sun Intercollegiate
+University of Minnesota, Crookston Northern Sun Intercollegiate
+University of Sioux Falls Northern Sun Intercollegiate
+Upper Iowa University Northern Sun Intercollegiate
+Wayne State College (Nebraska) Northern Sun Intercollegiate
+Winona State University Northern Sun Intercollegiate
+Adelphi University Northeast-10
+American International College Northeast-10
+Assumption College Northeast-10
+Bentley University Northeast-10
+Franklin Pierce University Northeast-10
+Le Moyne College Northeast-10
+Pace University Northeast-10
+Saint Anselm College Northeast-10
+Saint Michael's College Northeast-10
+Southern Connecticut State University Northeast-10
+Southern New Hampshire University Northeast-10
+Stonehill College Northeast-10
+The College of Saint Rose Northeast-10
+University of New Haven Northeast-10
+Merrimack College Northeast
+Concord University Mountain East
+Davis & Elkins College Mountain East
+Fairmont State University Mountain East
+Glenville State College Mountain East
+University of Charleston (West Virginia) Mountain East
+                                                        Urbana University Mountain East
+West Liberty University Mountain East
+West Virginia Wesleyan College Mountain East
+Wheeling University Mountain East
+Emporia State University Mid-America Intercollegiate Athletics
+Fort Hays State University Mid-America Intercollegiate Athletics
+Missouri Southern State University Mid-America Intercollegiate Athletics
+Missouri Western State University Mid-America Intercollegiate Athletics
+Newman University Mid-America Intercollegiate Athletics
+Northwest Missouri State University Mid-America Intercollegiate Athletics
+Pittsburg State University Mid-America Intercollegiate Athletics
+Rogers State University Mid-America Intercollegiate Athletics
+University of Central Missouri Mid-America Intercollegiate Athletics
+University of Nebraska at Kearney Mid-America Intercollegiate Athletics
+Washburn University of Topeka Mid-America Intercollegiate Athletics
+Angelo State University Lone Star
+Cameron University Lone Star
+Dallas Baptist University Lone Star
+Eastern New Mexico University Lone Star
+Lubbock Christian University Lone Star
+Oklahoma Christian University Lone Star
+St. Edward's University Lone Star
+Tarleton State University Lone Star
+Texas A&M International University Lone Star
+Texas A&M University-Commerce Lone Star
+Texas A&M University-Kingsville Lone Star
+University of Arkansas, Fort Smith Lone Star
+University of Texas of the Permian Basin Lone Star
+West Texas A&M University Lone Star
+Western New Mexico University Lone Star
+Auburn University at Montgomery Gulf South
+Christian Brothers University Gulf South
+Lee University Gulf South
+Mississippi College Gulf South
+Shorter University Gulf South
+Union University Gulf South
+University of Alabama in Huntsville Gulf South
+University of Montevallo Gulf South
+University of West Alabama Gulf South
+University of West Florida Gulf South
+University of West Georgia Gulf South
+Valdosta State University Gulf South
+Central Washington University Great Northwest Athletic
+Montana State University Billings Great Northwest Athletic
+Northwest Nazarene University Great Northwest Athletic
+Saint Martin's University Great Northwest Athletic
+Seattle Pacific University Great Northwest Athletic
+Simon Fraser University Great Northwest Athletic
+University of Alaska Anchorage Great Northwest Athletic
+University of Alaska Fairbanks Great Northwest Athletic
+Western Oregon University Great Northwest Athletic
+Western Washington University Great Northwest Athletic
+Concordia University Portland Great Northeast Athletic
+Alderson Broaddus University Great Midwest Athletic
+Cedarville University Great Midwest Athletic
+Hillsdale College Great Midwest Athletic
+Kentucky Wesleyan College Great Midwest Athletic
+Lake Erie College Great Midwest Athletic
+Malone University Great Midwest Athletic
+Ohio Dominican University Great Midwest Athletic
+Ohio Valley University Great Midwest Athletic
+Tiffin University Great Midwest Athletic
+Trevecca Nazarene University Great Midwest Athletic
+University of Findlay Great Midwest Athletic
+Walsh University Great Midwest Athletic
+Bellarmine University Great Lakes Valley
+Drury University Great Lakes Valley
+Lewis University Great Lakes Valley
+Lindenwood University Great Lakes Valley
+Maryville University of Saint Louis Great Lakes Valley
+McKendree University Great Lakes Valley
+Missouri University of Science and Technology Great Lakes Valley
+Quincy University Great Lakes Valley
+Rockhurst University Great Lakes Valley
+Southwest Baptist University Great Lakes Valley
+Truman State University Great Lakes Valley
+University of Illinois at Springfield Great Lakes Valley
+University of Indianapolis Great Lakes Valley
+University of Missouri-St. Louis Great Lakes Valley
+University of Southern Indiana Great Lakes Valley
+William Jewell College Great Lakes Valley
+Ashland University Great Lakes Intercollegiate Athletic
+Davenport University Great Lakes Intercollegiate Athletic
+Ferris State University Great Lakes Intercollegiate Athletic
+Grand Valley State University Great Lakes Intercollegiate Athletic
+Lake Superior State University Great Lakes Intercollegiate Athletic
+Michigan Technological University Great Lakes Intercollegiate Athletic
+Northwood University Great Lakes Intercollegiate Athletic
+Purdue University Northwest Great Lakes Intercollegiate Athletic
+Saginaw Valley State University Great Lakes Intercollegiate Athletic
+University of Wisconsin-Parkside Great Lakes Intercollegiate Athletic
+Wayne State University (Michigan) Great Lakes Intercollegiate Athletic
+East Central University Great American
+Harding University Great American
+Northwestern Oklahoma State University Great American
+Oklahoma Baptist University Great American
+Southern Arkansas University Great American
+Southern Nazarene University Great American
+University of Arkansas, Monticello Great American
+Daemen College East Coast
+Molloy College East Coast
+New York Institute of Technology East Coast
+Queens College (New York) East Coast
+Roberts Wesleyan College East Coast
+St. Thomas Aquinas College East Coast
+University of Bridgeport East Coast
+Barton College Conference
+Belmont Abbey College Conference
+Chowan University Conference
+Emmanuel College (Georgia) Conference
+Erskine College Conference
+King University Conference
+Lees-McRae College Conference
+Limestone College Conference
+North Greenville University Conference
+Southern Wesleyan University Conference
+University of Mount Olive Conference
+Bowie State University Central Intercollegiate Athletic
+Claflin University Central Intercollegiate Athletic
+Elizabeth City State University Central Intercollegiate Athletic
+Fayetteville State University Central Intercollegiate Athletic
+Johnson C. Smith University Central Intercollegiate Athletic
+Lincoln University (Pennsylvania) Central Intercollegiate Athletic
+Livingstone College Central Intercollegiate Athletic
+Saint Augustine's University Central Intercollegiate Athletic
+Shaw University Central Intercollegiate Athletic
+Virginia State University Central Intercollegiate Athletic
+Virginia Union University Central Intercollegiate Athletic
+Winston-Salem State University Central Intercollegiate Athletic
+Bloomfield College Central Atlantic Collegiate
+Caldwell University Central Atlantic Collegiate
+Chestnut Hill College Central Atlantic Collegiate
+Concordia College (New York) Central Atlantic Collegiate
+Dominican College (New York) Central Atlantic Collegiate
+Felician University Central Atlantic Collegiate
+Georgian Court University Central Atlantic Collegiate
+Goldey-Beacom College Central Atlantic Collegiate
+Holy Family University Central Atlantic Collegiate
+                                                                Nyack College Central Atlantic Collegiate
+Post University Central Atlantic Collegiate
+Thomas Jefferson University Central Atlantic Collegiate
+University of the Sciences Central Atlantic Collegiate
+Wilmington University (Delaware) Central Atlantic Collegiate
+California State Polytechnic University, Pomona California Collegiate Athletic
+California State University, Chico California Collegiate Athletic
+California State University, East Bay California Collegiate Athletic
+California State University, Los Angeles California Collegiate Athletic
+California State University, Monterey Bay California Collegiate Athletic
+California State University, San Marcos California Collegiate Athletic
+California State University, Stanislaus California Collegiate Athletic
+Humboldt State University California Collegiate Athletic
+San Francisco State University California Collegiate Athletic
+University of California, San Diego California Collegiate Athletic
+University of North Alabama ASUN
+Bluefield State
+Oakland City
+Salem University (West
+University of Puerto Rico,
+University of Puerto Rico,
+University of Puerto Rico, Rio
+Concordia University Portland Great Northwest Athletic
+Embry-Riddle Aeronautical University (Florida) Peach Belt
+Lincoln University (Missouri) Mid-America Intercollegiate Athletics
+Lynn
+Nova Southeastern University Peach Belt
+Thomas Jefferson University Central Intercollegiate Athletic
+University of Western Oregon University Great Northeast Athletic

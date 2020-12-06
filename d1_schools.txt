@@ -1,0 +1,331 @@
+Chicago State University Western Athletic
+Grand Canyon University Western Athletic
+New Mexico State University Western Athletic
+Seattle University Western Athletic
+The University of Texas Rio Grande Valley Western Athletic
+University of Missouri-Kansas City Western Athletic
+Utah Valley University Western Athletic
+Brigham Young University West Coast
+Gonzaga University West Coast
+Loyola Marymount University West Coast
+Pepperdine University West Coast
+Saint Mary's College of California West Coast
+Santa Clara University West Coast
+University of Portland West Coast
+University of San Diego West Coast
+University of San Francisco West Coast
+North Dakota State University The Summit
+Oral Roberts University The Summit
+Purdue University Fort Wayne The Summit
+South Dakota State University The Summit
+University of North Dakota The Summit
+University of South Dakota The Summit
+Western Illinois University The Summit
+Brown University The Ivy
+Columbia University-Barnard College The Ivy
+Cornell University The Ivy
+Dartmouth College The Ivy
+Harvard University The Ivy
+Princeton University The Ivy
+University of Pennsylvania The Ivy
+Yale University The Ivy
+Appalachian State University Sun Belt
+Arkansas State University Sun Belt
+Coastal Carolina University Sun Belt
+Texas State University Sun Belt
+Troy University Sun Belt
+University of Arkansas at Little Rock Sun Belt
+University of Louisiana at Lafayette Sun Belt
+University of Louisiana Monroe Sun Belt
+University of South Alabama Sun Belt
+University of Texas at Arlington Sun Belt
+Alabama State University Southwestern Athletic
+Alcorn State University Southwestern Athletic
+Grambling State University Southwestern Athletic
+Jackson State University Southwestern Athletic
+Mississippi Valley State University Southwestern Athletic
+Prairie View A&M University Southwestern Athletic
+Southern University, Baton Rouge Southwestern Athletic
+Texas Southern University Southwestern Athletic
+University of Arkansas, Pine Bluff Southwestern Athletic
+Abilene Christian University Southland
+Houston Baptist University Southland
+Lamar University Southland
+McNeese State University Southland
+Nicholls State University Southland
+Northwestern State University Southland
+Sam Houston State University Southland
+Southeastern Louisiana University Southland
+Stephen F. Austin State University Southland
+Texas A&M University-Corpus Christi Southland
+University of Central Arkansas Southland
+University of New Orleans Southland
+University of the Incarnate Word Southland
+Savannah State University Southern Intercol. Ath.
+East Tennessee State University Southern
+Furman University Southern
+Mercer University Southern
+Samford University Southern
+The Citadel Southern
+The University of North Carolina at Greensboro Southern
+University of Tennessee at Chattanooga Southern
+Virginia Military Institute Southern
+Western Carolina University Southern
+Wofford College Southern
+Auburn University Southeastern
+Louisiana State University Southeastern
+Mississippi State University Southeastern
+Texas A&M University, College Station Southeastern
+University of Alabama Southeastern
+University of Arkansas, Fayetteville Southeastern
+University of Florida Southeastern
+University of Georgia Southeastern
+University of Kentucky Southeastern
+University of Mississippi Southeastern
+University of Missouri, Columbia Southeastern
+University of Tennessee, Knoxville Southeastern
+Vanderbilt University Southeastern
+American University Patriot
+Boston University Patriot
+Bucknell University Patriot
+Colgate University Patriot
+College of the Holy Cross Patriot
+Lafayette College Patriot
+Lehigh University Patriot
+Loyola University Maryland Patriot
+U.S. Military Academy Patriot
+U.S. Naval Academy Patriot
+Arizona State University Pac-12
+Stanford University Pac-12
+University of Arizona Pac-12
+University of California, Berkeley Pac-12
+University of California, Los Angeles Pac-12
+University of Colorado, Boulder Pac-12
+University of Oregon Pac-12
+University of Washington Pac-12
+Washington State University Pac-12
+Austin Peay State University Ohio Valley
+Belmont University Ohio Valley
+Eastern Illinois University Ohio Valley
+Eastern Kentucky University Ohio Valley
+Jacksonville State University Ohio Valley
+Morehead State University Ohio Valley
+Murray State University Ohio Valley
+Southeast Missouri State University Ohio Valley
+Southern Illinois University Edwardsville Ohio Valley
+Tennessee State University Ohio Valley
+Tennessee Technological University Ohio Valley
+University of Tennessee at Martin Ohio Valley
+Bryant University Northeast
+Central Connecticut State University Northeast
+Fairleigh Dickinson University, Metropolitan Campus Northeast
+Long Island University Northeast
+Mount St. Mary's University Northeast
+Sacred Heart University Northeast
+Saint Francis University (Pennsylvania) Northeast
+St. Francis College Brooklyn Northeast
+Wagner College Northeast
+Boise State University Mountain West
+California State University, Fresno Mountain West
+Colorado State University Mountain West
+San Jose State University Mountain West
+U.S. Air Force Academy Mountain West
+University of Nevada, Reno Mountain West
+University of New Mexico Mountain West
+University of Wyoming Mountain West
+Utah State University Mountain West
+Bradley University Missouri Valley
+Drake University Missouri Valley
+Illinois State University Missouri Valley
+Indiana State University Missouri Valley
+Loyola University Chicago Missouri Valley
+Southern Illinois University at Carbondale Missouri Valley
+University of Evansville Missouri Valley
+University of Northern Iowa Missouri Valley
+Valparaiso University Missouri Valley
+Bethune-Cookman University Mid-Eastern Athletic
+Coppin State University Mid-Eastern Athletic
+Delaware State University Mid-Eastern Athletic
+Florida A&M University Mid-Eastern Athletic
+Howard University Mid-Eastern Athletic
+Morgan State University Mid-Eastern Athletic
+Norfolk State University Mid-Eastern Athletic
+North Carolina A&T State University Mid-Eastern Athletic
+North Carolina Central University Mid-Eastern Athletic
+South Carolina State University Mid-Eastern Athletic
+University of Maryland Eastern Shore Mid-Eastern Athletic
+Bowling Green State University Mid-American
+Central Michigan University Mid-American
+Eastern Michigan University Mid-American
+Kent State University Mid-American
+Miami University (Ohio) Mid-American
+Ohio University Mid-American
+University at Buffalo, the State University of New York Mid-American
+University of Akron Mid-American
+University of Toledo Mid-American
+Canisius College Metro Atlantic Athletic
+Fairfield University Metro Atlantic Athletic
+Iona College Metro Atlantic Athletic
+Manhattan College Metro Atlantic Athletic
+Marist College Metro Atlantic Athletic
+Monmouth University Metro Atlantic Athletic
+Niagara University Metro Atlantic Athletic
+Quinnipiac University Metro Atlantic Athletic
+Rider University Metro Atlantic Athletic
+Saint Peter's University Metro Atlantic Athletic
+Siena College Metro Atlantic Athletic
+Indiana University-Purdue University Indianapolis Horizon
+Northern Kentucky University Horizon
+Oakland University Horizon
+University of Detroit Mercy Horizon
+University of Illinois at Chicago Horizon
+University of Wisconsin-Green Bay Horizon
+University of Wisconsin-Milwaukee Horizon
+Wright State University Horizon
+Youngstown State University Horizon
+Florida Atlantic University Conference
+Florida International University Conference
+Louisiana Tech University Conference
+Marshall University Conference
+Middle Tennessee State University Conference
+Rice University Conference
+The University of North Carolina at Charlotte Conference
+University of North Texas Conference
+University of Texas at El Paso Conference
+University of Texas at San Antonio Conference
+Western Kentucky University Conference
+College of Charleston (South Carolina) Colonial Athletic
+Elon University Colonial Athletic
+Hofstra University Colonial Athletic
+Northeastern University Colonial Athletic
+University of North Carolina Wilmington Colonial Athletic
+William & Mary Colonial Athletic
+California Polytechnic State University Big West
+California State University, Fullerton Big West
+California State University, Northridge Big West
+Long Beach State University Big West
+University of California, Davis Big West
+University of California, Irvine Big West
+University of California, Riverside Big West
+University of California, Santa Barbara Big West
+Indiana University, Bloomington Big Ten
+Michigan State University Big Ten
+Pennsylvania State University Big Ten
+Purdue University Big Ten
+Rutgers, The State University of New Jersey, New Brunswick Big Ten
+The Ohio State University Big Ten
+University of Illinois Urbana-Champaign Big Ten
+University of Iowa Big Ten
+University of Michigan Big Ten
+University of Minnesota, Twin Cities Big Ten
+University of Nebraska, Lincoln Big Ten
+University of Wisconsin-Madison Big Ten
+Campbell University Big South
+Charleston Southern University Big South
+Gardner-Webb University Big South
+Hampton University Big South
+High Point University Big South
+Longwood University Big South
+Presbyterian College Big South
+Radford University Big South
+University of North Carolina Asheville Big South
+University of South Carolina Upstate Big South
+Winthrop University Big South
+California State University, Sacramento Big Sky
+Eastern Washington University Big Sky
+Idaho State University Big Sky
+Montana State University-Bozeman Big Sky
+Northern Arizona University Big Sky
+Portland State University Big Sky
+Southern Utah University Big Sky
+University of Idaho Big Sky
+University of Montana Big Sky
+University of Northern Colorado Big Sky
+Weber State University Big Sky
+Butler University Big East
+Creighton University Big East
+DePaul University Big East
+Georgetown University Big East
+Marquette University Big East
+Providence College Big East
+Seton Hall University Big East
+Villanova University Big East
+Xavier University Big East
+Baylor University Big 12
+Iowa State University Big 12
+Kansas State University Big 12
+Oklahoma State University Big 12
+Texas Christian University Big 12
+Texas Tech University Big 12
+University of Kansas Big 12
+University of Oklahoma Big 12
+University of Texas at Austin Big 12
+Boston College Atlantic Coast
+Clemson University Atlantic Coast
+Duke University Atlantic Coast
+Florida State University Atlantic Coast
+Georgia Institute of Technology Atlantic Coast
+North Carolina State University Atlantic Coast
+Syracuse University Atlantic Coast
+University of Louisville Atlantic Coast
+University of Miami (Florida) Atlantic Coast
+University of North Carolina, Chapel Hill Atlantic Coast
+University of Notre Dame Atlantic Coast
+University of Pittsburgh Atlantic Coast
+University of Virginia Atlantic Coast
+Virginia Polytechnic Institute and State University Atlantic Coast
+Wake Forest University Atlantic Coast
+Davidson College Atlantic 10
+Duquesne University Atlantic 10
+Fordham University Atlantic 10
+George Mason University Atlantic 10
+George Washington University Atlantic 10
+La Salle University Atlantic 10
+Saint Joseph's University Atlantic 10
+Saint Louis University Atlantic 10
+St. Bonaventure University Atlantic 10
+University of Dayton Atlantic 10
+University of Massachusetts, Amherst Atlantic 10
+University of Rhode Island Atlantic 10
+University of Richmond Atlantic 10
+Virginia Commonwealth University Atlantic 10
+Florida Gulf Coast University ASUN
+Jacksonville University ASUN
+Kennesaw State University ASUN
+Liberty University ASUN
+Lipscomb University ASUN
+New Jersey Institute of Technology ASUN
+Stetson University ASUN
+University of North Florida ASUN
+East Carolina University American Athletic
+Temple University American Athletic
+The University of Tulsa American Athletic
+Tulane University American Athletic
+University of Cincinnati American Athletic
+University of Connecticut American Athletic
+University of Houston American Athletic
+University of South Florida American Athletic
+Wichita State University American Athletic
+Binghamton University America East
+Stony Brook University America East
+University at Albany America East
+University of Hartford America East
+University of Maine America East
+University of Maryland, Baltimore County America East
+University of Massachusetts Lowell America East
+University of Memphis America East
+University of New Hampshire America East
+University of Vermont America East
+Alabama A&M University Southwestern Athletic
+Brigham Young
+California State University, Bakersfield Western Athletic
+Loyola Marymount
+Pepperdine
+Saint Mary's College of
+The University of Southern Mississippi Conference
+University of California, Riverside Mountain Pacific Sports
+University of Maryland, College Park Big Ten
+University of Memphis American Athletic
+University of Portland Mountain Pacific Sports
+University of South Carolina, Columbia Southeastern
+University of Southern California Mountain Pacific Sports

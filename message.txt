@@ -1,0 +1,13 @@
+Greetings Coach $Name_of_coach,
+
+I hope you and your loved ones are safe during these hard times.
+My name is $My_Name I am an international student athlete currently in Kenya training for mid-distance to long distance races. 
+My most recent best times are as follows: 1500 meters - 4:07, 1600 meters - 4:22 (here's the link to a time trial I did a while back - https://youtu.be/3lm_8L7pO_c ), 3000 meters - 8:49, 5000 meters - 15:21
+My NCAA ID is #1910703546
+Attached below is a copy of my SAT score report.
+
+I am looking to enroll this Fall and was making an inquiry on athletic scholarships.
+Feel free to reach back to me if you have any scholarships available for the August 2021 semester.
+
+Regards,
+$My_Name
