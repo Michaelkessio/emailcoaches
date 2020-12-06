@@ -17,7 +17,7 @@ def read_template(filename):
         template_file_content = template_file.read()
     return Template(template_file_content)
 
-def main(filename='contacts3.txt'):
+def main(filename='contacts.txt'):
     # set up the SMTP server
     s = smtplib.SMTP(host='smtp.gmail.com', port=587)
     s.starttls()
